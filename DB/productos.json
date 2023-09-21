@@ -1,0 +1,9 @@
+{"_id":{"$oid":"6503414b7f4baccf232560ef"},"nombre":"Camisa React js","precio":30,"imagen":"U9R3rd2XY.jpeg","__v":0}
+{"_id":{"$oid":"650352c27f4baccf23256159"},"nombre":"Camisa Angular","precio":22,"imagen":"59kvwSdfa.jpeg","__v":0}
+{"_id":{"$oid":"650352e97f4baccf2325615b"},"nombre":"javascript","precio":33,"imagen":"7SyXK7eAP.jpeg","__v":0}
+{"_id":{"$oid":"650353317f4baccf2325615f"},"nombre":"Drupal","precio":22,"imagen":"ogzwgy9Td.jpeg","__v":0}
+{"_id":{"$oid":"650353bc7f4baccf23256161"},"nombre":"Camisa Bulma","precio":24,"imagen":"2qAaRc8He.jpeg","__v":0}
+{"_id":{"$oid":"650353ce7f4baccf23256163"},"nombre":"Camisa TypeScript","precio":33,"imagen":"vwoAGnm96.jpeg","__v":0}
+{"_id":{"$oid":"650355d47f4baccf23256177"},"nombre":"Camisa Html","precio":14,"imagen":"qo8XJQDNT.jpeg","__v":0}
+{"_id":{"$oid":"650356537f4baccf2325617b"},"nombre":"Camisa Redux","precio":24,"imagen":"eTAcqdpcI.jpeg","__v":0}
+{"_id":{"$oid":"650369187f4baccf232561fa"},"nombre":"Camisa Node JS","precio":20,"imagen":"xTOybdUk6.jpeg","__v":0}
